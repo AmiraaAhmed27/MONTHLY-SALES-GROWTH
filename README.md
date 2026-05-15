@@ -15,6 +15,11 @@ The dashboard provides insights into:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](https://github.com/AmiraaAhmed27/MONTHLY-SALES-GROWTH/blob/main/Screenshot%202026-05-12%20223752.png)
+
+
 ## Tools Used
 
 * Power BI
